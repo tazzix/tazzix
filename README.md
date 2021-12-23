@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a software engineer living in Pakistan. Mostly focused towards architecture, mobile apps, and APIs
-<br>
+<br><br>
 🌱 I am currently learning declarative UI and state management<br>
 💬 Ask me about Mobile app development and supporting APIs<br>
 😄 Pronouns he, him<br>
