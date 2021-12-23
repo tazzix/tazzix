@@ -4,6 +4,7 @@ I am a software engineer living in Pakistan. Mostly focused towards architecture
 - 🌱 I am currently learning declarative UI and state management
 - 💬 Ask me about Mobile app development and supporting APIs
 - 😄 Pronouns: he, him
+
 <br>
 <br>
 ## Connect with me
